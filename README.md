@@ -50,7 +50,8 @@
      ```
      This will launch the app on your connected device or emulator.
 
- ALTERNATIVELY, INSTALL THE app-release.apk on an android device
+   #### ALTERNATIVE INSTALLATION:
+     Install the **app-release.apk** on your android device and launch
   ## Usage
  
   Upon launching the application, you will be greeted by a splash screen, followed by the main terminal interface.
