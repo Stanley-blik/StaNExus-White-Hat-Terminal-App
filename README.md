@@ -52,6 +52,7 @@
 
    #### ALTERNATIVE INSTALLATION:
      Install the app-release.apk on your android device and launch
+ [⬇️ Download APK](https://github.com/Stanley-blik/StaNExus-White-Hat-Terminal-App/releases/download/v1.0.0/app-release.apk)  
   ## Usage
  
   Upon launching the application, you will be greeted by a splash screen, followed by the main terminal interface.
