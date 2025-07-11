@@ -35,10 +35,9 @@
  
   1. **Clone the repository:**
      ```bash
-     git clone https://github.com/YOUR_USERNAME/StaNExus-White-Hat-Terminal.git
-     cd StaNExus-White-Hat-Terminal
+     git clone https://github.com/Stanley-blik/StaNExus-White-Hat-Terminal-App.git
+     cd StaNExus-White-Hat-Terminal-App
      ```
-     *(Note: Replace `YOUR_USERNAME` with your actual GitHub username or the repository URL.)*
  
   2. **Install dependencies:**
      ```bash
